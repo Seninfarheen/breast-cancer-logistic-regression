@@ -37,7 +37,7 @@ This project helped bridge theoretical ML concepts with real-world application a
 ## How to Run
 
 ```bash
-git clone https://github.com/seninfarheen/breast-cancer-logistic-regression.git
+git clone https://github.com/Seninfarheen/breast-cancer-logistic-regression.git
 cd breast-cancer-logistic-regression
 pip install -r requirements.txt
 # Then open and run the Jupyter notebook:
